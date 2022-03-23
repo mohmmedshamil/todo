@@ -1,0 +1,34 @@
+.maintodo{
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.maintodo h1{
+    color: white;
+}
+.forms{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2rem;
+}
+.forms input{
+    font-size: 1rem;
+}
+td,th{
+    font-size: 1rem;
+}
+.forms button{
+    background-color: #FF5C8D;
+    color: white;
+    font-size: 1.3rem;
+    font-weight: 600;
+    letter-spacing: 3px;
+}
+.tablesdesign,th,td{
+    color: white;
+}
+.tasks{
+    width: auto;
+}
